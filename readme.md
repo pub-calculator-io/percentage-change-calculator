@@ -12,9 +12,8 @@ Percentage change calculator to find percentage increase or decrease, calculate 
 3. Activate the [Percentage Change Calculator](https://www.calculator.io/percentage-change-calculator/ "Percentage Change Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_percentage_change_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Percentage Change Calculator to the sidebar through the `Appearance -> Widgets -> Percentage Change Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_percentage_change_calculator(); ?>` to your template where you would like the Percentage Change Calculator to appear.
+* Add the shortcode `[ci_percentage_change_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_percentage_change_calculator(); ?>` to your template where you would like the Percentage Change Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
