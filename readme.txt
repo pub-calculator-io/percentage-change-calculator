@@ -13,6 +13,8 @@ Percentage change calculator to find percentage increase or decrease, calculate 
 
 Percentage change calculator to find percentage increase or decrease, calculate the rate of change and calculate price change over a period of time.
 
+[Percentage Change Calculator Homepage](https://www.calculator.io/percentage-change-calculator/ "Percentage Change Calculator Homepage")
+
 __Shortcode__
 
 Use the Percentage Change Calculator shortcode:
