@@ -1,6 +1,6 @@
 === Percentage Change Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: percentage change, calculate percentage change, percentage change formula, percent change, percentage increase, percentage decrease, percentage difference, calculate change percentage, percentage change calculator online, percentage change between two numbers
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
