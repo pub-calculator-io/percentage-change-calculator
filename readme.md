@@ -1,4 +1,4 @@
-# Percentage Change Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Percentage Change Calculator Widget for WordPress
 
 Percentage change calculator to find percentage increase or decrease, calculate the rate of change and calculate price change over a period of time.
 
