@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Percentage Change Calculator by www.calculator.io
+Plugin Name: CI Percentage change calculator
 Plugin URI: https://www.calculator.io/percentage-change-calculator/
 Description: Percentage change calculator to find percentage increase or decrease, calculate the rate of change and calculate price change over a period of time.
 Version: 1.0.0
