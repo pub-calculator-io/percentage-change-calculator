@@ -1,4 +1,4 @@
-=== Percentage Change Calculator ===
+=== Percentage Change Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: percentage change, calculate percentage change, percentage change formula, percent change, percentage increase, percentage decrease, percentage difference, calculate change percentage, percentage change calculator online, percentage change between two numbers
 Requires at least: 5.0

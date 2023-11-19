@@ -7,7 +7,7 @@ Percentage change calculator to find percentage increase or decrease, calculate 
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/percentage-change-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /percentage-change-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Percentage Change Calculator](https://www.calculator.io/percentage-change-calculator/ "Percentage Change Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
