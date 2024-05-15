@@ -3,7 +3,6 @@
 Percentage change calculator to find percentage increase or decrease, calculate the rate of change and calculate price change over a period of time.
 
 ![Percentage Change Calculator Input Form](/assets/images/screenshot-1.png "Percentage Change Calculator Input Form")
-![Percentage Change Calculator Calculation Results](/assets/images/screenshot-2.png "Percentage Change Calculator Calculation Results")
 
 ## Installation
 
